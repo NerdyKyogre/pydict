@@ -5,7 +5,7 @@ Entering an empty string gives a random definition!
 As usual, pre-compiled binaries are available for Windows and Linux, and the script works on any platform. 
 
 # Installing
-Option A (Windows/Linux): Grab the zip from the Releases page. Run the "kcovidscreen" executable inside.
+Option A (Windows/Linux): Grab the zip from the Releases page. Run the "dict" executable inside.
 
 Option B (Cross Platform):
 
