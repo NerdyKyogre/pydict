@@ -12,7 +12,7 @@ Option B (Cross Platform):
 Download the source code by opening a terminal and running
 
 ```
-git clone https://github.com/NerdyKyogre/kcovidscreen
+git clone https://github.com/NerdyKyogre/pydict
 ```
 Then, if you haven't already, install pyautogui by running
 
